@@ -1,4 +1,4 @@
-# Telegram for Franz
+# Planner for Franz
 
 This is the official Franz recipe for Planner
 
