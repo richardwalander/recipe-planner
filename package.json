@@ -1,0 +1,12 @@
+{
+  "id": "planner",
+  "name": "Planner",
+  "version": "1.0.5",
+  "description": "Planner",
+  "main": "index.js",
+  "author": "Richard Wålander <richard.walander@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tasks.office.com/"
+  }
+}
