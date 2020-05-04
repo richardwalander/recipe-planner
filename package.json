@@ -1,7 +1,7 @@
 {
   "id": "planner",
   "name": "Planner",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Planner",
   "main": "index.js",
   "author": "Richard Wålander <richard.walander@gmail.com>",
